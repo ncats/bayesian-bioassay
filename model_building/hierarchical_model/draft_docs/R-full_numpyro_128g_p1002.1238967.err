@@ -1,0 +1,175 @@
+/gpfs/gsfs8/users/zengw6/conda/envs/pymc_env/lib/python3.9/site-packages/pymc/sampling/jax.py:39: UserWarning: This module is experimental.
+  warnings.warn("This module is experimental.")
+/spin1/home/linux/zengw6/Tox21/PyMC_model_script_numpyro.py:146: FutureWarning: In a future version, the Index constructor will not infer numeric dtypes when passed object-dtype sequences (matching Series behavior)
+  Y4_bayes = pd.factorize(y_train)
+  0%|          | 0/1000 [00:00<?, ?it/s]Compiling.. :   0%|          | 0/1000 [00:00<?, ?it/s]
+  0%|          | 0/1000 [00:00<?, ?it/s][A
+Compiling.. :   0%|          | 0/1000 [00:00<?, ?it/s][A
+
+  0%|          | 0/1000 [00:00<?, ?it/s][A[A
+
+Compiling.. :   0%|          | 0/1000 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/1000 [00:00<?, ?it/s][A[A[A
+
+
+Compiling.. :   0%|          | 0/1000 [00:00<?, ?it/s][A[A[A2023-06-01 14:10:43.154372: E external/xla/xla/service/slow_operation_alarm.cc:65] 
+********************************
+[Compiling module pmap__unnamed_wrapped_function_] Very slow compile? If you want to file a bug, run with envvar XLA_FLAGS=--xla_dump_to=/tmp/foo and attach the results.
+********************************
+2023-06-01 14:10:45.283862: E external/xla/xla/service/slow_operation_alarm.cc:133] The operation took 2m2.129622725s
+
+********************************
+[Compiling module pmap__unnamed_wrapped_function_] Very slow compile? If you want to file a bug, run with envvar XLA_FLAGS=--xla_dump_to=/tmp/foo and attach the results.
+********************************
+Running chain 0:   0%|          | 0/1000 [03:46<?, ?it/s]
+Running chain 1:   0%|          | 0/1000 [03:46<?, ?it/s][A
+
+Running chain 2:   0%|          | 0/1000 [03:46<?, ?it/s][A[A
+
+
+Running chain 3:   0%|          | 0/1000 [03:46<?, ?it/s][A[A[A
+
+Running chain 2:   5%|▌         | 50/1000 [04:12<08:24,  1.88it/s][A[A
+
+Running chain 2:  10%|█         | 100/1000 [04:39<08:04,  1.86it/s][A[A
+
+Running chain 2:  15%|█▌        | 150/1000 [05:06<07:33,  1.88it/s][A[A
+
+Running chain 2:  20%|██        | 200/1000 [05:33<07:10,  1.86it/s][A[A
+
+Running chain 2:  25%|██▌       | 250/1000 [06:00<06:42,  1.87it/s][A[A
+
+Running chain 2:  30%|███       | 300/1000 [06:26<06:15,  1.87it/s][A[A
+
+Running chain 2:  35%|███▌      | 350/1000 [06:51<05:39,  1.91it/s][A[A
+
+Running chain 2:  40%|████      | 400/1000 [07:18<05:16,  1.89it/s][A[A
+
+Running chain 2:  45%|████▌     | 450/1000 [07:45<04:50,  1.89it/s][A[A
+
+Running chain 2:  50%|█████     | 500/1000 [08:11<04:23,  1.90it/s][A[A
+
+Running chain 2:  55%|█████▌    | 550/1000 [08:37<03:55,  1.91it/s][A[A
+
+Running chain 2:  60%|██████    | 600/1000 [09:03<03:30,  1.90it/s][A[A
+
+Running chain 2:  65%|██████▌   | 650/1000 [09:30<03:04,  1.90it/s][A[A
+
+Running chain 2:  70%|███████   | 700/1000 [09:56<02:38,  1.89it/s][A[A
+
+Running chain 2:  75%|███████▌  | 750/1000 [10:22<02:10,  1.91it/s][A[A
+
+Running chain 2:  80%|████████  | 800/1000 [10:48<01:45,  1.90it/s][A[A
+
+Running chain 2:  85%|████████▌ | 850/1000 [11:14<01:18,  1.91it/s][A[A
+
+Running chain 2:  90%|█████████ | 900/1000 [11:42<00:53,  1.88it/s][A[A
+
+Running chain 2:  95%|█████████▌| 950/1000 [12:08<00:26,  1.88it/s][A[A
+
+Running chain 2: 100%|██████████| 1000/1000 [12:35<00:00,  1.88it/s][A[A
+Running chain 1:   5%|▌         | 50/1000 [45:10<13:06:40, 49.68s/it][A
+
+
+Running chain 3:   5%|▌         | 50/1000 [50:17<14:43:43, 55.81s/it][A[A[ARunning chain 0:   5%|▌         | 50/1000 [52:12<15:20:12, 58.12s/it]
+Running chain 1:  10%|█         | 100/1000 [5:32:21<55:47:40, 223.18s/it][A
+
+
+Running chain 3:  10%|█         | 100/1000 [5:43:21<57:27:56, 229.86s/it][A[A[ARunning chain 0:  10%|█         | 100/1000 [6:15:11<62:58:52, 251.93s/it]
+
+
+Running chain 3:  15%|█▌        | 150/1000 [10:59:28<70:23:14, 298.11s/it][A[A[A
+Running chain 1:  15%|█▌        | 150/1000 [11:09:26<72:14:37, 305.97s/it][ARunning chain 0:  15%|█▌        | 150/1000 [11:44:20<74:54:18, 317.25s/it]
+
+
+Running chain 3:  20%|██        | 200/1000 [16:04:40<72:13:25, 325.01s/it][A[A[A
+Running chain 1:  20%|██        | 200/1000 [16:27:47<74:39:56, 336.00s/it][ARunning chain 0:  20%|██        | 200/1000 [17:24:38<78:29:34, 353.22s/it]
+
+
+Running chain 3:  25%|██▌       | 250/1000 [21:48:06<74:15:19, 356.43s/it][A[A[A
+Running chain 1:  25%|██▌       | 250/1000 [22:20:40<76:34:12, 367.54s/it][ARunning chain 0:  25%|██▌       | 250/1000 [23:11:42<78:20:21, 376.03s/it]
+
+
+Running chain 3:  30%|███       | 300/1000 [27:09:01<71:12:00, 366.17s/it][A[A[A
+Running chain 1:  30%|███       | 300/1000 [28:01:09<74:10:43, 381.49s/it][ARunning chain 0:  30%|███       | 300/1000 [28:36:03<73:59:21, 380.52s/it]
+
+
+Running chain 3:  35%|███▌      | 350/1000 [32:30:03<67:14:22, 372.40s/it][A[A[A
+Running chain 1:  35%|███▌      | 350/1000 [33:49:25<71:01:49, 393.40s/it][ARunning chain 0:  35%|███▌      | 350/1000 [34:14:00<70:10:52, 388.70s/it]
+
+
+Running chain 3:  40%|████      | 400/1000 [38:06:24<63:43:25, 382.34s/it][A[A[A
+Running chain 1:  40%|████      | 400/1000 [39:37:21<66:50:46, 401.08s/it][ARunning chain 0:  40%|████      | 400/1000 [39:54:44<65:51:15, 395.13s/it]
+
+
+Running chain 3:  45%|████▌     | 450/1000 [43:53:39<60:03:18, 393.09s/it][A[A[A
+Running chain 1:  45%|████▌     | 450/1000 [45:20:27<61:47:02, 404.40s/it][ARunning chain 0:  45%|████▌     | 450/1000 [45:30:06<60:42:53, 397.41s/it]
+
+
+Running chain 3:  50%|█████     | 500/1000 [49:27:17<54:54:24, 395.33s/it][A[A[ARunning chain 0:  50%|█████     | 500/1000 [50:27:36<53:27:47, 384.94s/it]
+Running chain 1:  50%|█████     | 500/1000 [50:33:54<54:57:20, 395.68s/it][A
+
+
+Running chain 3:  55%|█████▌    | 550/1000 [55:50:47<51:53:52, 415.18s/it][A[A[ARunning chain 0:  55%|█████▌    | 550/1000 [56:48:18<50:52:03, 406.94s/it]
+Running chain 1:  55%|█████▌    | 550/1000 [57:00:36<52:04:30, 416.60s/it][A
+
+
+Running chain 3:  60%|██████    | 600/1000 [62:10:24<47:29:43, 427.46s/it][A[A[A
+Running chain 1:  60%|██████    | 600/1000 [62:41:00<46:00:52, 414.13s/it][ARunning chain 0:  60%|██████    | 600/1000 [63:12:12<47:01:56, 423.29s/it]
+
+
+Running chain 3:  65%|██████▌   | 650/1000 [68:25:16<42:13:04, 434.24s/it][A[A[A
+Running chain 1:  65%|██████▌   | 650/1000 [69:02:40<41:33:17, 427.42s/it][ARunning chain 0:  65%|██████▌   | 650/1000 [69:34:43<42:12:19, 434.11s/it]
+
+
+Running chain 3:  70%|███████   | 700/1000 [74:13:55<35:47:15, 429.45s/it][A[A[A
+Running chain 1:  70%|███████   | 700/1000 [75:24:24<36:23:24, 436.68s/it][ARunning chain 0:  70%|███████   | 700/1000 [75:57:41<36:48:59, 441.80s/it]
+
+
+Running chain 3:  75%|███████▌  | 750/1000 [80:29:30<30:16:04, 435.86s/it][A[A[A
+Running chain 1:  75%|███████▌  | 750/1000 [81:41:59<30:40:06, 441.63s/it][ARunning chain 0:  75%|███████▌  | 750/1000 [82:15:21<30:55:09, 445.24s/it]
+
+
+Running chain 3:  80%|████████  | 800/1000 [86:40:00<24:21:37, 438.49s/it][A[A[A
+Running chain 1:  80%|████████  | 800/1000 [87:51:22<24:33:44, 442.12s/it][ARunning chain 0:  80%|████████  | 800/1000 [88:30:13<24:48:44, 446.62s/it]
+
+
+Running chain 3:  85%|████████▌ | 850/1000 [92:50:29<18:20:47, 440.32s/it][A[A[A
+Running chain 1:  85%|████████▌ | 850/1000 [93:53:52<18:19:56, 439.98s/it][ARunning chain 0:  85%|████████▌ | 850/1000 [94:46:08<18:39:54, 447.97s/it]
+
+
+Running chain 3:  90%|█████████ | 900/1000 [99:03:00<12:17:13, 442.33s/it][A[A[A
+Running chain 1:  90%|█████████ | 900/1000 [99:44:58<12:03:57, 434.37s/it][ARunning chain 0:  90%|█████████ | 900/1000 [101:01:24<12:27:47, 448.68s/it]
+Running chain 1:  95%|█████████▌| 950/1000 [105:07:47<5:50:12, 420.26s/it][A
+
+
+Running chain 3:  95%|█████████▌| 950/1000 [105:13:50<6:09:16, 443.13s/it][A[A[ARunning chain 0:  95%|█████████▌| 950/1000 [107:16:15<6:14:10, 449.02s/it] 
+Running chain 1: 100%|██████████| 1000/1000 [111:14:11<00:00, 426.09s/it] [A
+
+
+Running chain 3: 100%|██████████| 1000/1000 [111:23:22<00:00, 443.22s/it] [A[A[ARunning chain 0: 100%|██████████| 1000/1000 [112:39:52<00:00, 430.80s/it] Running chain 0: 100%|██████████| 1000/1000 [112:39:52<00:00, 405.59s/it]
+Running chain 1: 100%|██████████| 1000/1000 [112:39:52<00:00, 405.59s/it]
+Running chain 2: 100%|██████████| 1000/1000 [112:39:52<00:00, 405.59s/it]
+Running chain 3: 100%|██████████| 1000/1000 [112:39:52<00:00, 405.59s/it]
+/gpfs/gsfs8/users/zengw6/conda/envs/pymc_env/lib/python3.9/site-packages/pymc/pytensorf.py:133: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  ret = np.asarray(data)
+TypeError: only size-1 arrays can be converted to Python scalars
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/spin1/home/linux/zengw6/Tox21/PyMC_model_script_numpyro.py", line 309, in <module>
+    sys.exit(main())
+  File "/spin1/home/linux/zengw6/Tox21/PyMC_model_script_numpyro.py", line 258, in main
+    pm.set_data(
+  File "/gpfs/gsfs8/users/zengw6/conda/envs/pymc_env/lib/python3.9/site-packages/pymc/model.py", line 1885, in set_data
+    model.set_data(variable_name, new_value, coords=coords)
+  File "/gpfs/gsfs8/users/zengw6/conda/envs/pymc_env/lib/python3.9/site-packages/pymc/model.py", line 1181, in set_data
+    values = convert_observed_data(values)
+  File "/gpfs/gsfs8/users/zengw6/conda/envs/pymc_env/lib/python3.9/site-packages/pymc/pytensorf.py", line 144, in convert_observed_data
+    return floatX(ret)
+  File "/gpfs/gsfs8/users/zengw6/conda/envs/pymc_env/lib/python3.9/site-packages/pymc/pytensorf.py", line 436, in floatX
+    return X.astype(pytensor.config.floatX)
+ValueError: setting an array element with a sequence.
